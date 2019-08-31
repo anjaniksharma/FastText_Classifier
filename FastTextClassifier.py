@@ -1,7 +1,3 @@
-"""
-9/11/2018 - Anjani Sharma -  PKE000000027730 - Autoclass: Add Fasttext algorithm to ML Training
-"""
-
 
 from sklearn.base import BaseEstimator, ClassifierMixin
 import fastText as ft
